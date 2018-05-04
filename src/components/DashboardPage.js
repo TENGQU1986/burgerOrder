@@ -1,10 +1,11 @@
 import React from 'react';
+import Burger from './Burger';
 
 
 const DashboardPage = () => {
   return (
     <div>
-      Dashboard page content
+      <Burger />
     </div>
   );
 };
